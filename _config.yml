@@ -1,0 +1,14 @@
+layout_spectrum: 0.13106705690734088
+typography_spectrum: 0.20596399647183716
+color:
+  brandStrength: 0.5513776643201709
+  lightness: 0.37212945241481066
+  saturation: 0.404773821355775
+  rhythmicContrast: 0.10362713551148772
+  brandColors:
+    - '#B0CC99'
+    - '#677E52'
+    - '#B7CA79'
+    - '#F6E8B1'
+    - '#89725B'
+name: pnwexplorer
